@@ -1,0 +1,123 @@
+[
+    {
+      "book_id":"0001",
+      "Name":"Synapse Residency Last 10 Years Question Solve",
+      "Author":"Synapse Team",
+      "Edition":"May 2021",
+      "Subject":"Post Graduate Entrance Exam",
+      "Publisher":"Synapse Medical Academy",
+      "Availability":"In Stock",
+      "Price":790,
+      "Image":"https://static1.eboighar.com/thumbimages/Books/book_95422021-06-04_1622798510.jpg"
+    },
+    {
+      "book_id":"0002",
+      "Name":"First Aid For The USMLE Step 1 (Color)",
+      "Author":"Tao le, Vikas Bhushan",
+      "Edition":"2021",
+      "Subject":"MRCP/MRCS/USMLE",
+      "Publisher":"McGraw-Hill",
+      "Availability":"In Stock",
+      "Price":800,
+      "Image":"https://static1.eboighar.com/thumbimages/Books/book_72852021-01-25_1611590440.jpg"
+    },
+    {
+      "book_id":"0003",
+      "Name":"Genesis Lecture Sheet MD Residency/Diploma Full Package (31 Sheet)",
+      "Author":"Genesis Team",
+      "Edition":"2021",
+      "Subject":"Post Graduate Entrance Exam",
+      "Publisher":"Genesis Publications",
+      "Availability":"In Stock",
+      "Price":2700,
+      "Image":"https://static1.eboighar.com/thumbimages/Books/book_36232020-10-10_1602302747.jpg"
+    },
+    {
+      "book_id":"0004",
+      "Name":"Plabable Note",
+      "Author":"Genesis Team",
+      "Edition":"2021",
+      "Subject":"Post Graduate Entrance Exam",
+      "Publisher":"Genesis Publications",
+      "Availability":"In Stock",
+      "Price":2000,
+      "Image":"https://static1.eboighar.com/thumbimages/Books/book_64932021-08-16_1629116504.jpg"
+    },
+    {
+      "book_id":"0005",
+      "Name":"Plabable Note",
+      "Author":"Genesis Team",
+      "Edition":"2021",
+      "Subject":"Post Graduate Entrance Exam",
+      "Publisher":"Genesis Publications",
+      "Availability":"In Stock",
+      "Price":2000,
+      "Image":"https://static1.eboighar.com/thumbimages/Books/book_64932021-08-16_1629116504.jpg"
+    },
+    {
+      "book_id":"0006",
+      "Name":"Lange Review of Medical Microbiology and Immunology (Color)",
+      "Author":"Warren Levinson",
+      "Edition":"16th",
+      "Subject":"Microbiology",
+      "Publisher":"McGraw-Hill",
+      "Availability":"In Stock",
+      "Price":450,
+      "Image":"https://static1.eboighar.com/thumbimages/Books/book_36602021-03-07_1615114928.jpg"
+    },
+    {
+      "book_id":"0007",
+      "Name":"DC Dutta's Textbook of Gynecology",
+      "Author":"Hiralal Konar",
+      "Edition":"8th",
+      "Subject":"Obstetrics and Gynaecology",
+      "Publisher":"Jaypee",
+      "Availability":"In Stock",
+      "Price":1500,
+      "Image":"https://static1.eboighar.com/thumbimages/Books/book_48432020-03-16_1584354110.png"
+    },
+    {
+      "book_id":"0008",
+      "Name":"Davidson Principles and Practice of Medicine (Color)",
+      "Author":"Stuart H. Raslston, Lan D. Penman",
+      "Edition":"23rd",
+      "Subject":"Medicine",
+      "Publisher":"Elsevier",
+      "Availability":"In Stock",
+      "Price":1000,
+      "Image":"https://static1.eboighar.com/thumbimages/Books/book_56172018-03-12_1520832526.jpg"
+    },
+    {
+      "book_id":"0009",
+      "Name":"Step on to Paediatrics",
+      "Author":"Md Abid Hossain Mollah, Nazmun Nahar",
+      "Edition":"5th, Sep 2020",
+      "Subject":"Pediatrics",
+      "Publisher":"Elsevier",
+      "Availability":"In Stock",
+      "Price":900,
+      "Image":"https://static1.eboighar.com/thumbimages/Books/book_95992020-11-24_1606197520.jpg"
+    },
+    {
+      "book_id":"0010",
+      "Name":"Ganong's Review of Medical Physiology",
+      "Author":"Kim E. Barrett",
+      "Edition":"26th",
+      "Subject":"Physiology",
+      "Publisher":"McGraw-Hill",
+      "Availability":"In Stock",
+      "Price":900,
+      "Image":"https://static1.eboighar.com/thumbimages/Books/book_54412020-09-19_1600488776.jpg"
+    },
+    {
+      "book_id":"0011",
+      "Name":"Atlas of Human Anatomy",
+      "Author":"Frank H. Netter",
+      "Edition":"7th, Aug 2018",
+      "Subject":"Anatomy",
+      "Publisher":"Elsevier",
+      "Availability":"In Stock",
+      "Price":2000,
+      "Image":"https://static1.eboighar.com/thumbimages/Books/book_44022019-02-24_1551000218.png"
+    }
+  ]
